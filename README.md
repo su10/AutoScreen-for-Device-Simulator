@@ -1,3 +1,5 @@
+# THIS PROJECT WAS ARCHIVED. USE [NEWER VERSION](https://github.com/su10/AutoScreen-for-Unity2021) FOR UNITY2021 OR NEWER.
+
 # AutoScreen for Device Simulator
 
 AutoScreen provides a smart solution for Safe Area in Unity.
@@ -16,7 +18,7 @@ This is done by transforming the RectTransform, but the changes are not saved in
 
 ### Requirement
 
-* Unity: 2019.4 or higher
+* Unity: 2019.4 ~ 2020.3
 * Device Simulator: 2.2.4-preview or higher
 
 ### Install
